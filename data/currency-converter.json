@@ -1,0 +1,17 @@
+[
+  {
+    "base": "EUR",
+    "date": "new Date().toLocaleDateString()",
+    "rates": {}
+  },
+  {
+    "base": "USD",
+    "date": "new Date().toLocaleDateString()",
+    "rates": {}
+  },
+  {
+    "base": "DKK",
+    "date": "new Date().toLocaleDateString()",
+    "rates": {}
+  }
+]
