@@ -20,7 +20,7 @@
     "date": "new Date().toLocaleDateString()",
     "rates": {
       "EUR": 0.12,
-      "DKK":6.21
+      "USD":6.21
     }
   }
 ]
