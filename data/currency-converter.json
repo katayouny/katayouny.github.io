@@ -2,16 +2,25 @@
   {
     "base": "EUR",
     "date": "new Date().toLocaleDateString()",
-    "rates": {}
+    "rates": {
+      "USD": 1.21,
+      "DKK":7.39
+    }
   },
   {
     "base": "USD",
     "date": "new Date().toLocaleDateString()",
-    "rates": {}
+    "rates": {
+      "EUR": 0.81,
+      "DKK":6.8
+    }
   },
   {
     "base": "DKK",
     "date": "new Date().toLocaleDateString()",
-    "rates": {}
+    "rates": {
+      "EUR": 0.12,
+      "DKK":6.21
+    }
   }
 ]
